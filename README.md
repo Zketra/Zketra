@@ -31,9 +31,9 @@
 ---
 
 ### :fire: My Stats :
-<div id="header" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zketra&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zketra&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!---
 Zketra/Zketra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
