@@ -22,7 +22,7 @@
 
 - 👋 Hi, I’m @Zketra
 - 👀 I’m interested in BackEnd and Web Development
-- 🌱 I’m currently learning Alembic
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on any sort of website development project.
 - 📫 How to reach me ybdemirbag@gmail.com
 
